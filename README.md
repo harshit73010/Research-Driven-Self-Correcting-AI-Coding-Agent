@@ -43,19 +43,6 @@ Final Output
 
 ---
 
-## Repository Structure
-
-```
-agents/
-workflow/
-prompts/
-utils/
-docs/
-outputs/
-assets/
-```
-
----
 
 ## Installation
 
